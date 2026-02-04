@@ -1,2 +1,2 @@
 # Cognifyz_task
-Pair commit test
+Pair commit testiing
